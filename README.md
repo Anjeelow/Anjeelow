@@ -1,4 +1,3 @@
-# Hey, I'm Angelo
 
 **Software Developer** from Cebu, Philippines.
 
