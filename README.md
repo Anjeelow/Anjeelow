@@ -25,9 +25,6 @@
 
 [**Portfolio**](https://angelopumar.dev/)  •  [**LinkedIn**](https://www.linkedin.com/in/angelopumar/)  •  [**Email**](mailto:angelopumar.dev@gmail.com)
 
-
----
-
 <!--
 **Anjeelow/Anjeelow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
